@@ -7,3 +7,6 @@ Please check these examples to know the scope of your project and to make sure t
 - [Crowd-source funding for neighborhood development projects. (Nearly Neighbors)](https://github.com/Learn-NEAR/NCD.L1.sample--nearly-neighbors)
 - [(Meme-museum)](https://github.com/Learn-NEAR/NCD.L1.sample--meme-museum)
 - [Check out over 50 examples!](https://github.com/orgs/Learn-NEAR/repositories)
+
+Plase check NEAR ecosystem to see what apps running on NEAR mainnet.
+- [NEAR Ecosystem](https://near.org/ecosystem/)
